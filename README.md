@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezra</h1>
 <h3 align="center">Web development student</h3>
 
-- 🔭 I’m currently working on [A way to track books](coming soon)
+- 🔭 I’m currently working on An interactive online bookshelf (<a href="https://github.com/stardustezra/bookishdelight.git">)
 
 - 🌱 I’m currently learning **Vue.js, React.js**
 
