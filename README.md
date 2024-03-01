@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ezra</h1>
 <h3 align="center">Web development student</h3>
 
-- 🔭 I’m currently working on An interactive online bookshelf <a href="https://github.com/stardustezra/bookishdelight.git">repo here</a>
+- 🔭 I’m currently working on a discord reminder bot <a href="https://github.com/stardustezra/gamergamingbot">repo here</a>
 
-- 🌱 I’m currently learning **Vue.js, React.js**
+- 🌱 I’m currently learning **Vue.js, React.js, Python**
 
 - 📫 How to reach me **stardustezra@gmail.com**
 
