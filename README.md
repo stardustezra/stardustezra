@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a <a href="https://github.com/stardustezra/knudbot">discord reminder bot</a> and my <a href="https://github.com/stardustezra/geohave">2nd semester exam</a>
 
-- 🌱 I’m currently learning **Vue.js, React.js, Node.js, Python**
+- 🌱 I’m currently learning **Vue.js, React.js, Node.js, TypeScript**
 
 - 📫 How to reach me **stardustezra@gmail.com**
 
