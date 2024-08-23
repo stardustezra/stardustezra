@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezra</h1>
 <h3 align="center">Web development student</h3>
 
-- 🔭 I’m currently working on a <a href="https://github.com/stardustezra/knudbot">discord reminder bot</a> and my <a href="https://github.com/stardustezra/geohave">2nd semester exam</a>
+- 🔭 I’m currently working on a <a href="https://github.com/stardustezra/knudbot">discord reminder bot</a>
 
 - 🌱 I’m currently learning **Vue.js, React, Node.js, TypeScript**
 
